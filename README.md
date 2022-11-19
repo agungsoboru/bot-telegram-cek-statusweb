@@ -6,5 +6,6 @@ edit bot.sh sesuaikan telegram token dan chat id yang mau di pakai dan sesuaikan
 # Note
 tambahkan space kosong pada doamin.txt paling bawah
 
-![image](https://github.com/agungsoboru/bot-telegram-cek-statusweb/blob/main/Screenshot%20(226).png)
+![image](https://github.com/agungsoboru/bot-telegram-cek-statusweb/blob/main/Screenshot%20(227).png)
+![image](https://github.com/agungsoboru/bot-telegram-cek-statusweb/blob/main/Screenshot%20(228).png)
 ![image](https://github.com/agungsoboru/bot-telegram-cek-statusweb/blob/main/Capturee.PNG)
